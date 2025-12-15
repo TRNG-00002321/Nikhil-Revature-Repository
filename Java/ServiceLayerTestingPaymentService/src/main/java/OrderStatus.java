@@ -1,0 +1,9 @@
+public enum OrderStatus
+{
+    PENDING,
+    PAID,
+    PAYMENT_FAILED,
+    FRAUD_SUSPECTED,
+    REFUNDED,
+    CANCELLED, PARTIALLY_REFUNDED
+}
