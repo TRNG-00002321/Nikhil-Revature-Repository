@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4a22548-a139-4b03-b4c6-00a805ad7148" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/Allure/PaymentRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/Allure/PaymentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/Allure/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PaymentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UITestWithScreenshots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/placeholder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AllureAttachments.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="36vX7gYSbgyqMFgCDcvTDaMk6ZP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.PaymentServiceTest.executor": "Run",
+    "JUnit.UITestWithScreenshots.executor": "Run",
+    "Maven.allure-attachments-lab [io.qameta.allure:allure-maven:2.12.0:serve].executor": "Run",
+    "Maven.allure-attachments-lab [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/thede/Nikhil-Revature-Repository/Allure/AllureAttachments",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thede\Nikhil-Revature-Repository\Allure\AllureAttachments\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UITestWithScreenshots">
+    <configuration name="PaymentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AllureAttachments" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PaymentServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITestWithScreenshots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AllureAttachments" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UITestWithScreenshots" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UITestWithScreenshots" />
+        <item itemvalue="JUnit.PaymentServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4a22548-a139-4b03-b4c6-00a805ad7148" name="Changes" comment="" />
+      <created>1765887853056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765887853056</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:io.qameta.allure:allure-java-commons" />
+  </component>
+</project>
