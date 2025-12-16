@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4a22548-a139-4b03-b4c6-00a805ad7148" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/Allure/PaymentRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/Allure/PaymentResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/revature/Allure/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PaymentServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UITestWithScreenshots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/placeholder.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AllureAttachments.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="e4a22548-a139-4b03-b4c6-00a805ad7148" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TRNG-00002321/Nikhil-Revature-Repository.git",
+    "accountId": "1c97a95f-6973-4a59-89e8-897f75028b81"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
