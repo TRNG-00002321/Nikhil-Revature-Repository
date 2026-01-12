@@ -1,0 +1,1 @@
+I chose these visualizations because they provide clear visibility into the application’s runtime status. The metrics displayed allow us to continuously monitor performance, health, and behavior after deployment, making it easier to detect issues and understand how the application is performing in real time.
